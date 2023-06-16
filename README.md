@@ -1,1 +1,1 @@
-A Retail project build on Laravel and Vue3
+A Retail project build on Laravel, Vue3 and Inertia
